@@ -1,7 +1,7 @@
 # spring03-training
 Topics Covered:<br>
 1.> Scopes<br>
-Singleton and Prototype
+Singleton and Prototype<br>
 2.> @Lazy and Eager Annotations<br>
 3.> @PostConstruct<br>
 4.> @PreDestroy<br>
