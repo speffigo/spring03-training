@@ -1,4 +1,7 @@
 # spring03-training
+*Done an exercise showing showing Constructor Dependency injection<br>
+<br>
+
 Topics Covered:<br>
 1.> Scopes<br>
 Singleton and Prototype<br>
